@@ -34,7 +34,7 @@ filterHandler()
   return (
     <div className="App">
       <header>
-        <h1>Alex's to do list</h1>
+        <h1>Mat's To-Do-List</h1>
       </header>
       <Form
         todos={todos}
